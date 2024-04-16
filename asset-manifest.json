@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budget-boss/static/css/main.a524f7b8.css",
+    "main.js": "/budget-boss/static/js/main.b6987fed.js",
+    "index.html": "/budget-boss/index.html",
+    "main.a524f7b8.css.map": "/budget-boss/static/css/main.a524f7b8.css.map",
+    "main.b6987fed.js.map": "/budget-boss/static/js/main.b6987fed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a524f7b8.css",
+    "static/js/main.b6987fed.js"
+  ]
+}

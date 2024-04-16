@@ -1,0 +1,15 @@
+{
+  "short_name": "Budget boss",
+  "name": "Budget boss",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "48x48",
+      "type": "icon/svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
